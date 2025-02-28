@@ -1,6 +1,4 @@
-[gd_scene load_steps=2 format=3 uid="uid://q54d5bw88wp3"]
-
-[ext_resource type="Script" path="res://scenario/ready/Ready.cs" id="1_hj8w8"]
+[gd_scene format=3 uid="uid://q54d5bw88wp3"]
 
 [node name="Ready" type="Control"]
 layout_mode = 3
@@ -9,5 +7,4 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_hj8w8")
 metadata/_edit_lock_ = true
