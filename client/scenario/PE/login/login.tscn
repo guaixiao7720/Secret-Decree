@@ -1,10 +1,10 @@
 [gd_scene load_steps=6 format=3 uid="uid://bjjaxovxoed30"]
 
-[ext_resource type="Theme" uid="uid://ciovbfdaq756n" path="res://theme/default.tres" id="1_ahr1y"]
-[ext_resource type="Script" path="res://scenario/PE/login/login.gd" id="2_qaidu"]
-[ext_resource type="Script" path="res://scenario/PE/login/certificate_window.gd" id="3_g0xdd"]
-[ext_resource type="Script" path="res://scenario/PE/login/info_grid_container.gd" id="3_mkcvp"]
-[ext_resource type="Script" path="res://scenario/PE/login/ok_button.gd" id="4_1wqpu"]
+[ext_resource type="Theme" uid="uid://ciovbfdaq756n" path="res://client/theme/default.tres" id="1_ahr1y"]
+[ext_resource type="Script" path="res://client/scenario/PE/login/login.gd" id="2_qaidu"]
+[ext_resource type="Script" path="res://client/scenario/PE/login/certificate_window.gd" id="3_g0xdd"]
+[ext_resource type="Script" path="res://client/scenario/PE/login/info_grid_container.gd" id="3_mkcvp"]
+[ext_resource type="Script" path="res://client/scenario/PE/login/ok_button.gd" id="4_1wqpu"]
 
 [node name="Login" type="Control"]
 layout_mode = 3
@@ -32,7 +32,6 @@ metadata/_edit_lock_ = true
 title = "please_enter_your_credentials"
 initial_position = 2
 size = Vector2i(400, 300)
-visible = false
 script = ExtResource("3_g0xdd")
 
 [node name="CertificateControl" type="Control" parent="CertificateWindow"]
@@ -61,9 +60,16 @@ columns = 2
 layout_mode = 2
 text = "certificate"
 
-[node name="LineEdit" type="LineEdit" parent="CertificateWindow/CertificateControl/CertificateGridContainer"]
+[node name="CertificateLineEdit" type="LineEdit" parent="CertificateWindow/CertificateControl/CertificateGridContainer"]
 layout_mode = 2
 size_flags_horizontal = 3
+
+[node name="Label2" type="Label" parent="CertificateWindow/CertificateControl/CertificateGridContainer"]
+layout_mode = 2
+text = "relay_server"
+
+[node name="RelayServerLineEdit" type="LineEdit" parent="CertificateWindow/CertificateControl/CertificateGridContainer"]
+layout_mode = 2
 
 [node name="OkButton" type="Button" parent="CertificateWindow/CertificateControl"]
 custom_minimum_size = Vector2(100, 0)
