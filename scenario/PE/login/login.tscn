@@ -15,7 +15,7 @@ theme = ExtResource("1_ahr1y")
 script = ExtResource("2_gf18q")
 metadata/_edit_lock_ = true
 
-[node name="Button" type="Button" parent="."]
+[node name="CertificateButton" type="Button" parent="."]
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.225
@@ -90,4 +90,5 @@ grow_vertical = 2
 metadata/_edit_use_anchors_ = true
 metadata/_edit_lock_ = true
 
+[connection signal="pressed" from="CertificateButton" to="." method="_on_certificate_button_pressed"]
 [connection signal="close_requested" from="CertificateWindow" to="CertificateWindow" method="_on_close_requested"]

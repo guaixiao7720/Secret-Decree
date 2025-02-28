@@ -24,4 +24,9 @@ public partial class Login : Control
 	public override void _Process(double delta)
 	{
 	}
+
+	public void _on_certificate_button_pressed()
+	{
+		GetNode<Window>("CertificateWindow").Visible = true;
+	}
 }
