@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\secret_decree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1A2C4F-A7F3-43A0-9B79-DC0E17BEBB12}|secret_decree.csproj|d:\\document\\secret_decree\\scenario\\pe\\login\\certificatewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1A2C4F-A7F3-43A0-9B79-DC0E17BEBB12}|secret_decree.csproj|solutionrelative:scenario\\pe\\login\\certificatewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1A2C4F-A7F3-43A0-9B79-DC0E17BEBB12}|secret_decree.csproj|d:\\document\\secret_decree\\scenario\\pe\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1A2C4F-A7F3-43A0-9B79-DC0E17BEBB12}|secret_decree.csproj|solutionrelative:scenario\\pe\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1A2C4F-A7F3-43A0-9B79-DC0E17BEBB12}|secret_decree.csproj|d:\\document\\secret_decree\\scenario\\ready\\ready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1A2C4F-A7F3-43A0-9B79-DC0E17BEBB12}|secret_decree.csproj|solutionrelative:scenario\\ready\\ready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1A2C4F-A7F3-43A0-9B79-DC0E17BEBB12}|secret_decree.csproj|d:\\document\\secret_decree\\lib\\global_value.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1A2C4F-A7F3-43A0-9B79-DC0E17BEBB12}|secret_decree.csproj|solutionrelative:lib\\global_value.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CertificateWindow.cs",
+              "DocumentMoniker": "D:\\Document\\secret_decree\\scenario\\PE\\login\\CertificateWindow.cs",
+              "RelativeDocumentMoniker": "scenario\\PE\\login\\CertificateWindow.cs",
+              "ToolTip": "D:\\Document\\secret_decree\\scenario\\PE\\login\\CertificateWindow.cs",
+              "RelativeToolTip": "scenario\\PE\\login\\CertificateWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:54:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Document\\secret_decree\\scenario\\PE\\login\\Login.cs",
+              "RelativeDocumentMoniker": "scenario\\PE\\login\\Login.cs",
+              "ToolTip": "D:\\Document\\secret_decree\\scenario\\PE\\login\\Login.cs",
+              "RelativeToolTip": "scenario\\PE\\login\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:46:07.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "global_value.cs",
+              "DocumentMoniker": "D:\\Document\\secret_decree\\lib\\global_value.cs",
+              "RelativeDocumentMoniker": "lib\\global_value.cs",
+              "ToolTip": "D:\\Document\\secret_decree\\lib\\global_value.cs",
+              "RelativeToolTip": "lib\\global_value.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:13:11.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ready.cs",
+              "DocumentMoniker": "D:\\Document\\secret_decree\\scenario\\ready\\Ready.cs",
+              "RelativeDocumentMoniker": "scenario\\ready\\Ready.cs",
+              "ToolTip": "D:\\Document\\secret_decree\\scenario\\ready\\Ready.cs*",
+              "RelativeToolTip": "scenario\\ready\\Ready.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:23:01.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
